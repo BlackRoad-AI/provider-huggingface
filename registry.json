@@ -1,0 +1,17 @@
+{
+  "provider_id": "huggingface",
+  "name": "HuggingFace Inference",
+  "primary_model": "various",
+  "models": [
+    "meta-llama/Llama-3.2-11B-Vision",
+    "mistralai/Mistral-7B"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:34:38.456313Z"
+}
